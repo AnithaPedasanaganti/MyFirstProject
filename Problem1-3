@@ -1,0 +1,11 @@
+public class Example
+{
+ public static void main(String[] args)
+ {
+  int i=8;
+  //This is a single line comment
+  /*This is multi-line comment*/
+  /**This is documentation comment*/
+  System.out.println(i);
+  }
+  }
